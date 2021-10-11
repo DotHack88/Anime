@@ -1,46 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="--- [ ARTEMIS FOWL ] ---" tvg-logo="https://i.pinimg.com/originals/43/63/2c/43632cd28bae47f21ebde441fc5a6fa0.jpg" group-title="[ ARTEMIS FOWL ]",--- [ ARTEMIS FOWL ] ---
+#EXTINF:-1 tvg-id="" tvg-name="--- [ A ] ---" tvg-logo=" " group-title="[ A ]",--- [ A ] ---
 xxx
-#EXTINF:-1 tvg-id="" tvg-name="ARTEMIS FOWL" tvg-logo="https://i.pinimg.com/originals/43/63/2c/43632cd28bae47f21ebde441fc5a6fa0.jpg" group-title="[ ARTEMIS FOWL ]",Artemis Fowl
-https://streamingcommunity.co/videos/master/16719/480p?token=Sq1fPCq2DL7Fl5MhtHe75g&expires=1616616966
 
-#EXTINF:-1 tvg-id="" tvg-name="--- [ LA STORIA INFINITA ] ---" tvg-logo="https://pad.mymovies.it/filmclub/2003/02/032/locandina.jpg" group-title="[ LA STORIA INFINITA ]",--- [ LA STORIA INFINITA ] ---
+#EXTINF:-1 tvg-id="" tvg-name="--- [ B ] ---" tvg-logo=" " group-title="[ B ]",--- [ B ] ---
 xxx
-#EXTINF:-1 tvg-id="" tvg-name="LA STORIA INFINITA" tvg-logo="https://pad.mymovies.it/filmclub/2003/02/032/locandina.jpg" group-title="[ LA STORIA INFINITA ]",La Storia Infinita
-https://streamingcommunity.co/videos/master/7613/480p
 
-#EXTINF:-1 tvg-id="" tvg-name="--- [ LOGAN - THE WOLVERINE ] ---" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmkzISuPVqifWVN4u2sQXg1pCtl_qxI6cJ-eRAfw98hR4MZVzn" group-title="[ LOGAN - THE WOLVERINE ]",--- [ LOGAN - THE WOLVERINE ] ---
+#EXTINF:-1 tvg-id="" tvg-name="--- [ C ] ---" tvg-logo=" " group-title="[ C ]",--- [ C ] ---
 xxx
-#EXTINF:-1 tvg-id="" tvg-name="LOGAN - THE WOLVERINE" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmkzISuPVqifWVN4u2sQXg1pCtl_qxI6cJ-eRAfw98hR4MZVzn" group-title="[ LOGAN - THE WOLVERINE ]",Logan - The Wolverine
-https://streamingcommunity.co/videos/master/5545/480p
+#EXTINF:-1 tvg-id="Cinderella" tvg-name="Cinderella" tvg-logo="" group-title="[ Cinderella ]",Cinderella
+https://pro8.vidstream.pro/1121/stream1/EqPFI_kQBAro1HhYl67rC5AuqFxVu+P6Shp7rqk+wIMmV94ZRWEl/br/hls/1080/1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="--- [ ONWARD - OLTRE LA MAGIA ] ---" tvg-logo="https://nerdmovieproductions.it/wp-content/uploads/2020/08/onward.png" group-title="[ ONWARD - OLTRE LA MAGIA ]",--- [ ONWARD - OLTRE LA MAGIA ] ---
+#EXTINF:-1 tvg-id="" tvg-name="--- [ D ] ---" tvg-logo=" " group-title="[ D ]",--- [ D ] ---
 xxx
-#EXTINF:-1 tvg-id="" tvg-name="ONWARD - OLTRE LA MAGIA" tvg-logo="https://nerdmovieproductions.it/wp-content/uploads/2020/08/onward.png" group-title="[ ONWARD - OLTRE LA MAGIA ]",Onward - Oltre la magia
-https://streamingcommunity.co/videos/master/16461/480p?token=-V9a0myj0c9OgeDzT3gM9A&expires=1616617329
 
-#EXTINF:-1 tvg-id="" tvg-name="--- [ SOUL ] ---" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_Soul.png" group-title="[ SOUL ]",--- [ SOUL ] ---
+#EXTINF:-1 tvg-id="" tvg-name="--- [ E ] ---" tvg-logo=" " group-title="[ E ]",--- [ E ] ---
 xxx
-#EXTINF:-1 tvg-id="" tvg-name="SOUL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_Soul.png" group-title="[ SOUL ]",Soul
-https://streamingcommunity.co/videos/master/26448/480p
+#EXTINF:-1 tvg-id="Escape Room: Tournament of Champions" tvg-name="Escape Room: Tournament of Champions" tvg-logo="" group-title="[ Escape Room: Tournament of Champions ]",Escape Room: Tournament of Champions
+https://pro9.vidstream.pro/3019/stream1/EqPFI_8QBAro1HhYl67rC8Au_lxdu_i3AwJ7rqk+wIMmV94ZRWEl/br/hls/360/360.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="--- [ THE FALCON AND THE WINTER SOLDIER ] ---" tvg-logo="https://www.dafont.com/forum/attach/orig/8/8/886576.jpg" group-title="[ THE FALCON AND THE WINTER SOLDIER ]",--- [ THE FALCON AND THE WINTER SOLDIER ] ---
+#EXTINF:-1 tvg-id="" tvg-name="--- [ F ] ---" tvg-logo=" " group-title="[ F ]",--- [ F ] ---
 xxx
-#EXTINF:-1 tvg-id="" tvg-name="THE FALCON AND THE WINTER SOLDIER" tvg-logo="https://www.dafont.com/forum/attach/orig/8/8/886576.jpg" group-title="[ THE FALCON AND THE WINTER SOLDIER ]",The Falcon and the Winter Soldier
-https://streamingcommunity.co/videos/master/29294/480p?token=e5kwWpiDFgu7YfQSnp9K-A&expires=1616616735
 
-#EXTINF:-1 tvg-id="" tvg-name="--- [ RAYA E L'ULTIMO DRAGO ] ---" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_00aec328.jpeg" group-title="[ RAYA E L'ULTIMO DRAGO ]",--- [ RAYA E L'ULTIMO DRAGO ] ---
+#EXTINF:-1 tvg-id="" tvg-name="--- [ G ] ---" tvg-logo=" " group-title="[ G ]",--- [ G ] ---
 xxx
-#EXTINF:-1 tvg-id="" tvg-name="RAYA E L'ULTIMO DRAGO" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_00aec328.jpeg" group-title="[ RAYA E L'ULTIMO DRAGO ]",Raya e l'ultimo drago
-https://streamingcommunity.co/videos/master/29000/480p
 
-#EXTINF:-1 tvg-id="" tvg-name="--- [ ZACK SNYDER'S JUSTICE LEAGUE ] ---" tvg-logo="https://leganerd.com/wp-content/uploads/2019/07/thewalkingdeads9logo.jpg" group-title="[ ZACK SNYDER'S JUSTICE LEAGUE ]",--- [ ZACK SNYDER'S JUSTICE LEAGUE ] ---
+#EXTINF:-1 tvg-id="" tvg-name="--- [ H ] ---" tvg-logo=" " group-title="[ H ]",--- [ H ] ---
 xxx
-#EXTINF:-1 tvg-id="" tvg-name="RAYA E L'ULTIMO DRAGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Poster_Zack_Snyder%C2%B4s_Justice_League.png" group-title="[ ZACK SNYDER'S JUSTICE LEAGUE ]",Zack Snyder's Justice League
-https://streamingcommunity.co/videos/master/29292/480p
 
-
-#EXTINF:-1 tvg-id="" tvg-name="--- [ ONWARD - OLTRE LA MAGIA ] ---" tvg-logo="https://nerdmovieproductions.it/wp-content/uploads/2020/08/onward.png" group-title="[ ONWARD - OLTRE LA MAGIA ]",--- [ ONWARD - OLTRE LA MAGIA ] ---	
+#EXTINF:-1 tvg-id="" tvg-name="--- [ I ] ---" tvg-logo=" " group-title="[ I ]",--- [ I ] ---
 xxx
-#EXTINF:-1 tvg-id="" tvg-name="ONWARD - OLTRE LA MAGIA" tvg-logo="https://nerdmovieproductions.it/wp-content/uploads/2020/08/onward.png" group-title="[ ONWARD - OLTRE LA MAGIA ]",Onward - Oltre la magia
-https://streamingcommunity.co/videos/master/16719/480p?token=Sq1fPCq2DL7Fl5MhtHe75g&expires=1616616966
+#EXTINF:-1 tvg-id="Injustice" tvg-name="Injustice" tvg-logo="" group-title="[ Injustice ]",Injustice
+https://pro9.vidstream.pro/6029/stream1/EqPFI_4QBAro1HhYl67rC5MuqVwdvuHyQgN7rqk+wIMmV94ZRWEl/br/hls/1080/1080.m3u8#.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="--- [ N ] ---" tvg-logo=" " group-title="[ N ]",--- [ N ] ---
+xxx
+#EXTINF:-1 tvg-id="Nightbooks" tvg-name="Nightbooks" tvg-logo="" group-title="[ Nightbooks ]",Nightbooks
+https://pro9.vidstream.pro/3019/stream1/EqPFI_0QBAro1HhYl67rC5Mu+1wBvvS6CwJ7rqk+wIMmV94ZRWEl/br/hls/1080/1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="--- [ S ] ---" tvg-logo=" " group-title="[ S ]",--- [ S ] ---
+xxx
+#EXTINF:-1 tvg-id="Shang-Chi and the Legend of the Ten Rings" tvg-name="Shang-Chi and the Legend of the Ten Rings" tvg-logo="" group-title="[ Shang-Chi and the Legend of the Ten Rings ]",Shang-Chi and the Legend of the Ten Rings
+https://pro8.vidstream.pro/1134/stream1/EqPFI_IQBAro1HhYl67rC5ouqFwGufS7SQ17rqk+wIMmV94ZRWEl/br/hls/480/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="--- [ T ] ---" tvg-logo=" " group-title="[ T ]",--- [ T ] ---
+xxx
+#EXTINF:-1 tvg-id="The Night House" tvg-name="The Night House" tvg-logo="" group-title="[ The Night House ]",The Night House
+https://pro9.vidstream.pro/3015/stream1/EqPFI_IQBAro1HhYl67rC8UurlxZu7j6DQV7rqk+wIMmV94ZRWEl/br/hls/1080/1080.m3u8#.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="--- [ V ] ---" tvg-logo=" " group-title="[ V ]",--- [ V ] ---
+xxx
+#EXTINF:-1 tvg-id="Venom: Let There Be Carnage" tvg-name="Venom: Let There Be Carnage" tvg-logo="" group-title="[ Venom: Let There Be Carnage ]",Venom: Let There Be Carnage
+https://pro8.vidstream.pro/1119/stream1/EqPFI_0QBAro1HhYl67rC5Yu_lwcvuC3TgV7rqk+wIMmV94ZRWEl/br/hls/480/480.m3u8
