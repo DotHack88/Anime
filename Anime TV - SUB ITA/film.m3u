@@ -37,6 +37,12 @@ xxx
 #EXTINF:-1 tvg-id="Nightbooks" tvg-name="Nightbooks" tvg-logo="" group-title="[ Nightbooks ]",Nightbooks
 https://pro9.vidstream.pro/3019/stream1/EqPFI_0QBAro1HhYl67rC5Mu+1wBvvS6CwJ7rqk+wIMmV94ZRWEl/br/hls/1080/1080.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="--- [ O ] ---" tvg-logo=" " group-title="[ O ]",--- [ O ] ---
+xxx
+#EXTINF:-1 tvg-id="Orphan" tvg-name="Orphan" tvg-logo="" group-title="[ Orphan ]",Orphan
+https://hfs270.serversicuro.cc/hls/dnzpfpuezdg4a3gyvdah73rmq7nw5qvkxn2rifvidcrkxfiegiyl2dkruklq/index-v1-a1.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="--- [ S ] ---" tvg-logo=" " group-title="[ S ]",--- [ S ] ---
 xxx
 #EXTINF:-1 tvg-id="Shang-Chi and the Legend of the Ten Rings" tvg-name="Shang-Chi and the Legend of the Ten Rings" tvg-logo="" group-title="[ Shang-Chi and the Legend of the Ten Rings ]",Shang-Chi and the Legend of the Ten Rings
