@@ -1,4 +1,4 @@
-![anime-logo-square](https://user-images.githubusercontent.com/40268801/163724924-8825261b-ef38-4aaf-a23e-1614f24bdd45.png)
+![anime-logo-circle](https://user-images.githubusercontent.com/40268801/163724924-8825261b-ef38-4aaf-a23e-1614f24bdd45.png)
 
 🇮🇹 Cosa fa ? 🇮🇹 
 Guarda le più belle serie di anime sempre e ovunque con un clic.
