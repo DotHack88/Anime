@@ -1,0 +1,15 @@
+<tv>
+
+  <!-- Boruto -->
+  <channel id="Boruto">
+    <display-name>BORUTO 🇯🇵/🇮🇹</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Boruto_logo.png" />
+  </channel>
+  
+  <!-- Programmi -->
+  <programme start="2023-05-26 08:00:00 +0000" stop="2023-05-26 09:30:00 +0000" channel="Boruto">
+    <title> Episodio 1 - La missione dei quattro gemelli </title>
+    <desc>Anni prima della battaglia di Boruto Uzumaki contro un uomo di nome Kawaki, i giovani Boruto e Shikadai Nara montano su un treno e quest'ultimo gli ricorda che domani è la loro cerimonia d'ingresso all'Accademia. Boruto vede un ragazzo vittima di bullismo e lo difende. Parlano dei loro padri con il ragazzo, Denki Kaminarimon, rivelando che suo padre è un uomo d'affari miliardario che si occupa del sistema ferroviario di Konoha. Boruto lo incoraggia a tenere testa a suo padre. Boruto torna a casa e non è sorpreso di sentire che suo padre, Naruto, non è a casa. Nel frattempo Denki cerca di difendersi, ma suo padre lo respinge, dicendogli che otterrà la sua approvazione diventando forte. La mattina dopo, Boruto è in ritardo per la cerimonia e vede Denki controllato da un'aura malvagia. Denki attira i bulli su un treno rotto e lo guida in direzione di un altro treno con l'intento di spaventarli. Boruto interviene e fa rinsavire Denki, e riesce a evitare la collisione. Tuttavia il treno finisce per schiantarsi contro la faccia di pietra degli Hokage. I due diventano amici mentre frequentano l'Accademia il giorno dopo. </desc>
+  </programme>
+  
+</tv>
