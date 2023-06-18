@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="--- [ QUESTO MONDO NON MI RENDERÀ CATTIVO ] ---" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/44/Questo_mondo_non_mi_render%C3%A0_cattivo.jpg/1920px-Questo_mondo_non_mi_render%C3%A0_cattivo.jpg" group-title="[ QUESTO MONDO NON MI RENDERÀ CATTIVO ]",--- [ QUESTO MONDO NON MI RENDERÀ CATTIVO ] ---	
+xxx
+#EXTINF:-1 tvg-id="" tvg-name="QUESTO MONDO NON MI RENDERÀ CATTIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/44/Questo_mondo_non_mi_render%C3%A0_cattivo.jpg/1920px-Questo_mondo_non_mi_render%C3%A0_cattivo.jpg" group-title="[ QUESTO MONDO NON MI RENDERÀ CATTIVO ]",Episodio 1 - Quel che è di Cesare
+https://scws.work/v2/playlist/158097?type=video&rendition=720p&token=aiWSc4sUDTeOn7KVUH1FAA&expires=1692292846&canCast=1&b=1&n=1
+#EXTINF:-1 tvg-id="" tvg-name="QUESTO MONDO NON MI RENDERÀ CATTIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/44/Questo_mondo_non_mi_render%C3%A0_cattivo.jpg/1920px-Questo_mondo_non_mi_render%C3%A0_cattivo.jpg" group-title="[ QUESTO MONDO NON MI RENDERÀ CATTIVO ]",Episodio 2 - Come una balena spiaggiata
+https://scws.work/v2/playlist/158101?type=video&rendition=720p&token=EhvbTiuiCBPr9pSxCMOLJg&expires=1692293018&canCast=1&b=1&n=1 
+#EXTINF:-1 tvg-id="" tvg-name="QUESTO MONDO NON MI RENDERÀ CATTIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/44/Questo_mondo_non_mi_render%C3%A0_cattivo.jpg/1920px-Questo_mondo_non_mi_render%C3%A0_cattivo.jpg" group-title="[ QUESTO MONDO NON MI RENDERÀ CATTIVO ]",Episodio 3 - Il faro
+https://scws.work/v2/playlist/158100?type=video&rendition=720p&token=U5aa4RnfUBUC1XmfSXjBXw&expires=1692293045&canCast=1&b=1&n=1
+#EXTINF:-1 tvg-id="" tvg-name="QUESTO MONDO NON MI RENDERÀ CATTIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/44/Questo_mondo_non_mi_render%C3%A0_cattivo.jpg/1920px-Questo_mondo_non_mi_render%C3%A0_cattivo.jpg" group-title="[ QUESTO MONDO NON MI RENDERÀ CATTIVO ]",Episodio 4 - Chi denuncia per primo è infame due volte
+https://scws.work/v2/playlist/158098?type=video&rendition=720p&token=ydYTsQmY5aJ-s6WddytP1A&expires=1692293062&canCast=1&b=1&n=1
+#EXTINF:-1 tvg-id="" tvg-name="QUESTO MONDO NON MI RENDERÀ CATTIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/44/Questo_mondo_non_mi_render%C3%A0_cattivo.jpg/1920px-Questo_mondo_non_mi_render%C3%A0_cattivo.jpg" group-title="[ QUESTO MONDO NON MI RENDERÀ CATTIVO ]",Episodio 5 - Quattro miliardi di anni luce
+https://scws.work/v2/playlist/158099?type=video&rendition=720p&token=i-lRyhrEm3Op0HbQ2JhXng&expires=1692293090&canCast=1&b=1&n=1 
+#EXTINF:-1 tvg-id="" tvg-name="QUESTO MONDO NON MI RENDERÀ CATTIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/44/Questo_mondo_non_mi_render%C3%A0_cattivo.jpg/1920px-Questo_mondo_non_mi_render%C3%A0_cattivo.jpg" group-title="[ QUESTO MONDO NON MI RENDERÀ CATTIVO ]",Episodio 6 - Non c'è un posto per te
+https://scws.work/v2/playlist/158102?type=video&rendition=720p&token=ckNbbeaHYVvkJ75iWFTlMQ&expires=1692293117&canCast=1&b=1&n=1 
+
 #EXTINF:-1 tvg-id="" tvg-name="--- [ THE ROOKIE STAGIONE 4 ] ---" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQel9jWWKkh_os1RRXt2r9QmUyM-7jnBiZz7tMdi8aSobrEF110" group-title="[ THE ROOKIE STAGIONE 4 ]",--- [ THE ROOKIE STAGIONE 4 ] ---	
 xxx
 #EXTINF:-1 tvg-id="" tvg-name="THE ROOKIE STAGIONE 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQel9jWWKkh_os1RRXt2r9QmUyM-7jnBiZz7tMdi8aSobrEF110" group-title="[ THE ROOKIE STAGIONE 4 ]",Episodio 1 - La vita e la morte
