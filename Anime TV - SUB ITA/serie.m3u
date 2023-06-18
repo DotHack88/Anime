@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="--- [ CORTO CIRCUITO ] ---" tvg-logo="https://cdn.streamingcommunity.codes/images/389ae635-a0bb-4ef5-aaee-0a689301b916.webp" group-title="[ CORTO CIRCUITO ]",--- [ CORTO CIRCUITO ] ---	
+xxx
+#EXTINF:-1 tvg-id="" tvg-name="CORTO CIRCUITO" tvg-logo="https://cdn.streamingcommunity.codes/images/389ae635-a0bb-4ef5-aaee-0a689301b916.webp" group-title="[ CORTO CIRCUITO ]",Corto Circuito 
+https://scws.work/v2/playlist/40066?type=video&rendition=720p&token=dCab2IRQrhc65rWdDmI1aA&expires=1692311671&canCast=1&n=1
+
+#EXTINF:-1 tvg-id="" tvg-name="--- [ CORTO CIRCUITO 2 ] ---" tvg-logo="https://cdn.streamingcommunity.codes/images/3d30a8fe-d197-49b2-a060-3666f985c6cb.webp" group-title="[ CORTO CIRCUITO 2 ]",--- [ CORTO CIRCUITO 2 ] ---	
+xxx
+#EXTINF:-1 tvg-id="" tvg-name="CORTO CIRCUITO 2" tvg-logo="https://cdn.streamingcommunity.codes/images/3d30a8fe-d197-49b2-a060-3666f985c6cb.webp" group-title="[ CORTO CIRCUITO 2 ]",CORTO CIRCUITO 2 
+https://scws.work/v2/playlist/40065?type=video&rendition=480p&token=c9nW0EV1by3rOOR0Tv5Adw&expires=1692311793&canCast=1&n=1
+
 #EXTINF:-1 tvg-id="" tvg-name="--- [ QUESTO MONDO NON MI RENDERÀ CATTIVO ] ---" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/44/Questo_mondo_non_mi_render%C3%A0_cattivo.jpg/1920px-Questo_mondo_non_mi_render%C3%A0_cattivo.jpg" group-title="[ QUESTO MONDO NON MI RENDERÀ CATTIVO ]",--- [ QUESTO MONDO NON MI RENDERÀ CATTIVO ] ---	
 xxx
 #EXTINF:-1 tvg-id="" tvg-name="QUESTO MONDO NON MI RENDERÀ CATTIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/44/Questo_mondo_non_mi_render%C3%A0_cattivo.jpg/1920px-Questo_mondo_non_mi_render%C3%A0_cattivo.jpg" group-title="[ QUESTO MONDO NON MI RENDERÀ CATTIVO ]",Episodio 1 - Quel che è di Cesare
