@@ -25,10 +25,15 @@ https://scws.work/v2/playlist/158099?type=video&rendition=720p&token=i-lRyhrEm3O
 #EXTINF:-1 tvg-id="" tvg-name="QUESTO MONDO NON MI RENDERÀ CATTIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/44/Questo_mondo_non_mi_render%C3%A0_cattivo.jpg/1920px-Questo_mondo_non_mi_render%C3%A0_cattivo.jpg" group-title="[ QUESTO MONDO NON MI RENDERÀ CATTIVO ]",Episodio 6 - Non c'è un posto per te
 https://scws.work/v2/playlist/158102?type=video&rendition=720p&token=ckNbbeaHYVvkJ75iWFTlMQ&expires=1692293117&canCast=1&b=1&n=1 
 
-#EXTINF:-1 tvg-id="" tvg-name="--- [ RITORNO AL FUTURO I ] ---" tvg-logo="https://cdn.streamingcommunity.codes/images/dcf88b9c-e05e-4289-b676-f16efba87862.webp" group-title="[ RITORNO AL FUTURO I ]",--- [ RITORNO AL FUTURO I ] ---	
+#EXTINF:-1 tvg-id="" tvg-name="--- [ RITORNO AL FUTURO ] ---" tvg-logo="https://cdn.streamingcommunity.codes/images/dcf88b9c-e05e-4289-b676-f16efba87862.webp" group-title="[ RITORNO AL FUTURO ]",--- [ RITORNO AL FUTURO ] ---	
 xxx
-#EXTINF:-1 tvg-id="" tvg-name="RITORNO AL FUTURO I" tvg-logo="https://cdn.streamingcommunity.codes/images/dcf88b9c-e05e-4289-b676-f16efba87862.webp" group-title="[ RITORNO AL FUTURO I ]",RITORNO AL FUTURO I 
+#EXTINF:-1 tvg-id="" tvg-name="RITORNO AL FUTURO I" tvg-logo="https://cdn.streamingcommunity.codes/images/dcf88b9c-e05e-4289-b676-f16efba87862.webp" group-title="[ RITORNO AL FUTURO ]",RITORNO AL FUTURO I 
 https://scws.work/v2/playlist/94453?type=video&rendition=720p&token=XevCPzye1RYLNTd7yO_Vmw&expires=1692882015&canCast=1&n=1
+#EXTINF:-1 tvg-id="" tvg-name="RITORNO AL FUTURO II" tvg-logo="https://cdn.streamingcommunity.codes/images/b2b2d847-f643-40b1-8554-a48125f321e0.webp" group-title="[ RITORNO AL FUTURO ]",RITORNO AL FUTURO II 
+https://scws.work/v2/playlist/94458?type=video&rendition=720p&token=dmEh6JwdVUF4Z9xqqxLHTQ&expires=1692882322&canCast=1&n=1
+#EXTINF:-1 tvg-id="" tvg-name="RITORNO AL FUTURO IiI" tvg-logo="https://cdn.streamingcommunity.codes/images/aca59a87-c594-4ebb-8925-0c05159a7c11.webp" group-title="[ RITORNO AL FUTURO ]",RITORNO AL FUTURO III
+https://scws.work/v2/playlist/115465?type=video&rendition=720p&token=Kmj-5tUfObitljs1BXcUhw&expires=1692882387&canCast=1&n=1
+
 
 #EXTINF:-1 tvg-id="" tvg-name="--- [ THE ROOKIE STAGIONE 4 ] ---" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQel9jWWKkh_os1RRXt2r9QmUyM-7jnBiZz7tMdi8aSobrEF110" group-title="[ THE ROOKIE STAGIONE 4 ]",--- [ THE ROOKIE STAGIONE 4 ] ---	
 xxx
