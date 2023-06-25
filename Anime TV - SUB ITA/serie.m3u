@@ -25,6 +25,11 @@ https://scws.work/v2/playlist/158099?type=video&rendition=720p&token=i-lRyhrEm3O
 #EXTINF:-1 tvg-id="" tvg-name="QUESTO MONDO NON MI RENDERÀ CATTIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/44/Questo_mondo_non_mi_render%C3%A0_cattivo.jpg/1920px-Questo_mondo_non_mi_render%C3%A0_cattivo.jpg" group-title="[ QUESTO MONDO NON MI RENDERÀ CATTIVO ]",Episodio 6 - Non c'è un posto per te
 https://scws.work/v2/playlist/158102?type=video&rendition=720p&token=ckNbbeaHYVvkJ75iWFTlMQ&expires=1692293117&canCast=1&b=1&n=1 
 
+#EXTINF:-1 tvg-id="" tvg-name="--- [ RITORNO AL FUTURO I ] ---" tvg-logo="https://cdn.streamingcommunity.codes/images/dcf88b9c-e05e-4289-b676-f16efba87862.webp" group-title="[ RITORNO AL FUTURO I ]",--- [ RITORNO AL FUTURO I ] ---	
+xxx
+#EXTINF:-1 tvg-id="" tvg-name="RITORNO AL FUTURO I" tvg-logo="https://cdn.streamingcommunity.codes/images/dcf88b9c-e05e-4289-b676-f16efba87862.webp" group-title="[ RITORNO AL FUTURO I ]",RITORNO AL FUTURO I 
+https://scws.work/v2/playlist/94453?type=video&rendition=720p&token=XevCPzye1RYLNTd7yO_Vmw&expires=1692882015&canCast=1&n=1
+
 #EXTINF:-1 tvg-id="" tvg-name="--- [ THE ROOKIE STAGIONE 4 ] ---" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQel9jWWKkh_os1RRXt2r9QmUyM-7jnBiZz7tMdi8aSobrEF110" group-title="[ THE ROOKIE STAGIONE 4 ]",--- [ THE ROOKIE STAGIONE 4 ] ---	
 xxx
 #EXTINF:-1 tvg-id="" tvg-name="THE ROOKIE STAGIONE 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQel9jWWKkh_os1RRXt2r9QmUyM-7jnBiZz7tMdi8aSobrEF110" group-title="[ THE ROOKIE STAGIONE 4 ]",Episodio 1 - La vita e la morte
@@ -115,3 +120,8 @@ https://scws.work/v2/playlist/157220?type=video&rendition=720p&token=H5mn6-wUABP
 https://scws.work/v2/playlist/158183?type=video&rendition=720p&token=O4UnpuQGJB7oydt5idKu2A&expires=1692292043&canCast=1&n=1
 #EXTINF:-1 tvg-id="" tvg-name="THE ROOKIE STAGIONE 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQel9jWWKkh_os1RRXt2r9QmUyM-7jnBiZz7tMdi8aSobrEF110" group-title="[ THE ROOKIE STAGIONE 5 ]",Episodio 20 - Dinamiche sospette
 https://scws.work/v2/playlist/158173?type=video&rendition=720p&token=Y2sAJNfPqdmJaytuWRHBBg&expires=1692292096&canCast=1&n=1
+
+#EXTINF:-1 tvg-id="" tvg-name="--- [ UFFICIALE GENTILUOMO ] ---" tvg-logo="https://cdn.streamingcommunity.codes/images/b853e256-f058-4a27-9c09-07497a8ec86b.webp" group-title="[ UFFICIALE GENTILUOMO ]",--- [ UFFICIALE GENTILUOMO ] ---	
+xxx
+#EXTINF:-1 tvg-id="" tvg-name="UFFICIALE GENTILUOMO" tvg-logo="https://cdn.streamingcommunity.codes/images/b853e256-f058-4a27-9c09-07497a8ec86b.webp" group-title="[ UFFICIALE GENTILUOMO ]",UFFICIALE GENTILUOMO 
+https://scws.work/v2/playlist/54394?type=video&rendition=720p&token=9-oFAQ_duGOebs4oNhYYSA&expires=1692881832&canCast=1&n=1
